@@ -1,7 +1,7 @@
-### Hi people 👋🏾
+### Oi pessoal 👋🏾
 
-# About Me
-### Oii! Eu sou a Gabriel Alexandre 💪🏾
+# Sobre mim
+### Eu sou a Gabriel Alexandre 💪🏾
 
 💼 Trabalho com análise de dados financeiros, automação e Machine learning 
 
